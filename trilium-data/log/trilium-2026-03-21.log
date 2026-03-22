@@ -15589,3 +15589,5 @@ Stack: Error
 17:14:00.286 Exporting note 'v05kHY9zwVZy'
 17:14:00.288 Exporting note 'qTv63u3Jj94k'
 17:14:00.409 Sending message to all clients: {"type":"taskSucceeded","taskId":"FyofKLh2Rd","taskType":"export","data":null,"result":null}
+17:16:12.391 Updating option 'leftPaneWidth' to '13'
+17:16:12.393 204 PUT /api/options with 0 bytes took 2ms
