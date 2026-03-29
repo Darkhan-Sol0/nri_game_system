@@ -1,0 +1,77 @@
+13:08:20.910 
+ _____     _ _ _
+|_   _| __(_) (_)_   _ _ __ ___   | \ | | ___ | |_ ___  ___
+  | || '__| | | | | | | '_ ` _ \  |  \| |/ _ \| __/ _ \/ __|
+  | || |  | | | | |_| | | | | | | | |\  | (_) | ||  __/\__ \
+  |_||_|  |_|_|_|\__,_|_| |_| |_| |_| \_|\___/ \__\___||___/ 0.102.1
+
+13:08:20.911 📦 Versions:    app=0.102.1 db=234 sync=36 clipper=1.0
+13:08:20.911 🔧 Build:       2026-03-08 08:46:44 (8ac9daa5d3)
+13:08:20.911 📂 Data dir:    /home/darkhan/.local/share/trilium-data
+13:08:20.911 ⏰ UTC time:    2026-03-25 04:08:20
+13:08:20.912 💻 CPU:         12th Gen Intel(R) Core(TM) i5-12450H (12-core @ 4111 Mhz)
+13:08:20.912 💾 DB size:     7.1 MiB
+13:08:20.912 
+13:08:20.931 Becca (note cache) load took 16ms
+13:08:20.946 Updating attribute _help_Un4wj2Mak2Ky_ldocName from "User Guide/User Guide/Installation & Setup/Server Installation/Nix flake.clone" to "User Guide/User Guide/Installation & Setup/Desktop Installation/Nix flake"
+13:08:20.952 Updating attribute _help_Un4wj2Mak2Ky_liconClass from "bx bx-file" to "bx bxl-tux"
+13:08:20.953 Updating attribute _help_Un4wj2Mak2Ky_ldocName from "User Guide/User Guide/Installation & Setup/Desktop Installation/Nix flake" to "User Guide/User Guide/Installation & Setup/Server Installation/Nix flake.clone"
+13:08:20.954 Updating attribute _help_Un4wj2Mak2Ky_liconClass from "bx bxl-tux" to "bx bx-file"
+13:08:20.967 Trusted reverse proxy: false
+13:08:20.967 App HTTP server starting up at port 37840
+13:08:21.007 Registered global shortcut Ctrl+Alt+P for action createNoteIntoInbox
+13:08:21.013 Listening on port 37840
+13:08:21.252 CSRF token generation: Successful
+13:08:21.365 200 GET /api/options with 8794 bytes took 0ms
+13:08:21.367 200 GET /api/keyboard-actions with 23563 bytes took 1ms
+13:08:21.368 200 GET /api/tree with 11138 bytes took 0ms
+13:08:21.369 200 GET /api/autocomplete/notesCount with 3 bytes took 0ms
+13:08:21.371 200 GET /api/options/locales with 1264 bytes took 0ms
+13:08:21.415 200 GET /api/script/widgets with 2 bytes took 1ms
+13:08:21.577 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 0ms
+13:08:21.578 200 GET /api/system-checks with 27 bytes took 1ms
+13:08:21.579 200 POST /api/tree/load with 9077 bytes took 1ms
+13:08:21.580 200 POST /api/tree/load with 14646 bytes took 1ms
+13:08:21.631 200 POST /api/tree/load with 10379 bytes took 1ms
+13:08:21.632 200 POST /api/tree/load with 10409 bytes took 0ms
+13:08:21.641 200 GET /api/recent-changes/undefined with 2 bytes took 8ms
+13:08:21.643 200 GET /api/notes/root/metadata with 181 bytes took 1ms
+13:08:21.645 200 GET /api/search/note.parents.noteId%3D%22root%22%20%23!archived with 71 bytes took 2ms
+13:08:21.646 200 GET /api/notes/root/attachments with 2 bytes took 0ms
+13:08:21.647 200 POST /api/tree/load with 14646 bytes took 1ms
+13:08:21.648 200 POST /api/tree/load with 23209 bytes took 0ms
+13:08:21.665 200 GET /api/notes/root/attachments with 2 bytes took 0ms
+13:08:21.666 200 GET /api/note-map/root/backlink-count with 11 bytes took 0ms
+13:08:21.719 200 GET /api/notes/root with 318 bytes took 0ms
+13:08:21.728 200 GET /api/notes/_template_text_snippet with 344 bytes took 0ms
+13:08:21.739 200 GET /api/notes/_template_list_view with 323 bytes took 1ms
+13:08:21.749 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 1ms
+13:08:21.752 200 GET /api/notes/_template_grid_view with 322 bytes took 0ms
+13:08:21.756 Cannot find note 'GMzFgy5Ue8px'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 Cannot find note 'DPWeatDioCdv'
+13:08:21.756 200 GET /api/autocomplete?query=&activeNoteId=root&fastSearch=true with 8172 bytes took 2ms
+13:08:21.758 200 GET /api/notes/_template_calendar with 325 bytes took 0ms
+13:08:21.763 200 GET /api/notes/_template_table with 320 bytes took 1ms
+13:08:21.764 200 GET /api/notes/_template_geo_map with 320 bytes took 1ms
+13:08:21.765 200 GET /api/notes/_template_board with 325 bytes took 1ms
+13:08:21.766 200 GET /api/notes/_template_presentation with 331 bytes took 1ms
+13:08:21.767 200 GET /api/search-templates with 2 bytes took 1ms
+13:08:23.439 200 GET /api/tree?subTreeNoteId=6ZKWkNedwrGX with 10061 bytes took 1ms
+13:08:23.579 200 GET /api/script/startup with 2 bytes took 1ms
+13:08:23.681 Slow query took 25ms: UPDATE branches SET isExpanded = ? WHERE branchId = ?
+13:08:23.682 Slow 204 PUT /api/branches/root_6ZKWkNedwrGX/expanded/1 with 0 bytes took 27ms
+13:08:24.951 Table counts: notes: 725, revisions: 615, attachments: 2, branches: 796, attributes: 699, etapi_tokens: 0, blobs: 725
+13:08:24.979 All consistency checks passed with no errors detected (took 42ms)
+13:08:24.982 200 GET /api/tree?subTreeNoteId=Vfxzk00BUh56 with 10459 bytes took 0ms
+13:08:25.190 204 PUT /api/branches/6ZKWkNedwrGX_Vfxzk00BUh56/expanded/1 with 0 bytes took 1ms
